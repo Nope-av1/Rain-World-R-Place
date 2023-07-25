@@ -26,12 +26,20 @@
       "y": 791
     },
     {
-    "name": "ITERATOR",
-    "sources": [
-    "https://cdn.discordapp.com/attachments/918386267006337034/1133017532006150274/bsm_place.png"
-    ],
-    "x": 2041,
-    "y": 682
+      "name": "ITERATOR",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1133017532006150274/bsm_place.png"
+      ],
+      "x": 2041,
+      "y": 682
+    },
+    {
+      "name": "SLIVER OF STRAWS",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1133190916165877765/sos_place.png"
+      ],
+      "x": 2175,
+      "y": 688
     }
   ],
   "whitelist": [],
