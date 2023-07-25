@@ -48,6 +48,14 @@
       ],
       "x": 2192,
       "y": 676
+    },
+    {
+      "name": "SIGNIFICANT HARASSMENT",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1133252332075888752/nsh_place.png"
+      ],
+      "x": 654,
+      "y": 1405
     }
   ],
   "whitelist": [],
