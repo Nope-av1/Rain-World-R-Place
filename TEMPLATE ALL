@@ -1,0 +1,39 @@
+{
+  "contact": "https://discord.gg/62g9EUBEKF",
+  "templates": [
+    {
+      "name": "SCUG",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1132994300184117288/scug_template_FINALE.png"
+      ],
+      "x": 1968,
+      "y": 628
+    },
+    {
+      "name": "COLLAB",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1132962061975048232/rwplace.png"
+      ],
+      "x": 239,
+      "y": 460
+    },
+    {
+      "name": "HARASSMENT",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1132582025421918208/nsh_mini_place.png"
+      ],
+      "x": 1306,
+      "y": 791
+    },
+    {
+    "name": "ITERATOR",
+    "sources": [
+    "https://cdn.discordapp.com/attachments/918386267006337034/1133017532006150274/bsm_place.png"
+    ],
+    "x": 2041,
+    "y": 682
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
