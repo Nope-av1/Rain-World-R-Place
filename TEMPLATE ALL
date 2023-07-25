@@ -56,6 +56,14 @@
       ],
       "x": 612,
       "y": 1393
+    },
+    {
+      "name": "KARMA 2 SPEZ & XQC",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/918386267006337034/1133311215444168725/fp_FQ_spez_only.png"
+      ],
+      "x": 228,
+      "y": 1239
     }
   ],
   "whitelist": [],
