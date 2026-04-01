@@ -1,0 +1,15 @@
+{
+  "contact": "https://discord.gg/scNQTzM4tP",
+  "templates": [
+    {
+      "name": "SCUGS",
+      "sources": [
+        "https://file.garden/Z5hc78SV6nNdNxHW/R%20TYLES/RRainworld.png"
+      ],
+      "x": 270,
+      "y": 449
+    },
+     ],
+  "whitelist": [],
+  "blacklist": []
+}
