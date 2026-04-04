@@ -8,6 +8,14 @@
       ],
       "x": 270,
       "y": 449
+    },
+    {
+      "name": "Wall Lizards",
+      "sources": [
+        "https://file.garden/Z5hc78SV6nNdNxHW/R%20TYLES/BLUE%20LIZOR%20LINE.png"
+      ],
+      "x": 505,
+      "y": 530
     }
      ],
   "whitelist": [],
